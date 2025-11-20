@@ -3,8 +3,10 @@ Just a simple repo where I save my working CCNA labs as I finish them. Everythin
 Currently includes:
 
 -GRE hub-and-spoke with OSPF over tunnels
--Remote Access IPsec VPN
--(more labs will be added )
+
+Remote Access IPsec VPN
+
+(more labs will be added )
 
 Each lab folder contains:
 
