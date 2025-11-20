@@ -1,7 +1,7 @@
 # CCNA Lab: GRE Point-to-Point Tunnels – Hub-and-Spoke Topology
 
  
-This lab builds three GRE point-to-point tunnels between a hub router (Hub/HQ) and three spoke routers (Branch1/Spoke-1, Branch2/Spoke-2), runs OSPF only over the tunnels, and provides full reachability between all branch LANs while keeping the underlay simple and stable.
+This lab builds three GRE point-to-point tunnels between a hub router (Hub/HQ) and two spoke routers (Branch1/Spoke-1, Branch2/Spoke-2), runs OSPF only over the tunnels, and provides full reachability between all branch LANs while keeping the underlay simple and stable.
 
 ## Topology Overview
 - Underlay: Serial links (10.1.x.0/30)
