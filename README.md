@@ -2,9 +2,9 @@
 Just a simple repo where I save my working CCNA labs as I finish them. Everything inside has been built, tested, and is 100% working in Packet Tracer.
 Currently includes:
 
-GRE hub-and-spoke with OSPF over tunnels
-Remote Access IPsec VPN
-(more labs will be added )
+-GRE hub-and-spoke with OSPF over tunnels
+-Remote Access IPsec VPN
+-(more labs will be added )
 
 Each lab folder contains:
 
