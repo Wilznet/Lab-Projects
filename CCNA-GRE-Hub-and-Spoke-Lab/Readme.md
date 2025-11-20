@@ -6,7 +6,7 @@ This lab builds three GRE point-to-point tunnels between a hub router (Hub/HQ) a
 ## Topology Overview
 - Underlay: Serial links (10.1.x.0/30)
 - Overlay: GRE tunnels (172.16.x.0/30)
-- LANs: 192.168.1.0/24 (Branch3), 192.168.2.0/24 (Branch4), 192.168.3.0/24 (Branch5)
+- LANs: 192.168.1.0/24 (HQ), 192.168.2.0/24 (Branch-1), 192.168.3.0/24 (Branch-2)
 
 ## Objectives Achieved
 - Configured clean IP addressing on serial (underlay) and Ethernet (LAN) interfaces
