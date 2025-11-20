@@ -25,13 +25,12 @@ This lab builds three GRE point-to-point tunnels between a hub router (Hub/HQ) a
 - `GRE-Hub-and-Spoke-Topology.pkt` → Complete working Packet Tracer file
 - `topology.png` → Screenshot of the topology
 - `final-configs/` → Complete running-configs for all routers (copy-paste ready)
-- `initial-configs/` → Minimal/clean starting configs (optional starting point)
-- `verification-commands.txt` → Exact show/ping commands to prove everything works
+- `verification-Screenshot.txt` → Exact show/ping commands to prove everything works
 
 ## Quick Start
 1. Open `GRE-Hub-and-Spoke-Topology.pkt` in Cisco Packet Tracer
-2. (Optional) Load the configs from `final-configs/` or build manually
-3. Open CLI on any router and run the commands in `verification-commands.txt`
+2. Load the configs from `final-configs/` or build manually
+3. Open CLI on any router and run the commands in `verification-screenshot.txt`
 4. You should see all tunnels UP, OSPF neighbors FULL, and pings succeeding between all three LANs
 
 Enjoy the lab and feel free to improve it!
